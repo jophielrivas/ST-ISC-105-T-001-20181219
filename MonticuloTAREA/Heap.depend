@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1559055869 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\heap\main.c
+	<stdio.h>
+	<stdlib.h>
+	"heap.h"
+
+1559054923 c:\users\zhenpeng li\documents\fundamentosprogramacion\heap\heap.h
+	<stdlib.h>
+
+1559055816 source:c:\users\zhenpeng li\documents\fundamentosprogramacion\heap\heap.c
+	<stdlib.h>
+	<math.h>
+	"heap.h"
+
+1559218888 source:c:\users\felix\desktop\cuatrimestre3\monticulo\heap.c
+	<stdlib.h>
+	<math.h>
+	"heap.h"
+
+1559054924 c:\users\felix\desktop\cuatrimestre3\monticulo\heap.h
+	<stdlib.h>
+
+1559055870 source:c:\users\felix\desktop\cuatrimestre3\monticulo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"heap.h"
+
+1559218888 source:c:\users\miguel rivas\documents\programación\monticulotarea\heap.c
+	<stdlib.h>
+	<math.h>
+	"heap.h"
+
+1559054924 c:\users\miguel rivas\documents\programación\monticulotarea\heap.h
+	<stdlib.h>
+
+1559817162 source:c:\users\miguel rivas\documents\programación\monticulotarea\main.c
+	<stdio.h>
+	<stdlib.h>
+	"heap.h"
+

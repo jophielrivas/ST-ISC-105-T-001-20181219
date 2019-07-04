@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1559658462 source:c:\users\felix\desktop\cola_practica\main.c
+	<stdlib.h>
+	<stdio.h>
+	"Cola.h"
+	<conio.c>
+
+1559658463 c:\users\felix\desktop\cola_practica\colas.h
+	<stdlib.h>
+
+1559690020 source:c:\users\felix\desktop\cola_practica\colas.c
+	<stdlib.h>
+	"Colas.h"
+
+1559658463 c:\users\felix\desktop\cola_practica\cola.h
+	<stdlib.h>
+
+1559690020 source:c:\users\miguel rivas\documents\programación\colatarea\colas.c
+	<stdlib.h>
+	"Colas.h"
+
+1559658463 c:\users\miguel rivas\documents\programación\colatarea\colas.h
+	<stdlib.h>
+
+1559690025 source:c:\users\miguel rivas\documents\programación\colatarea\main.c
+	<stdlib.h>
+	<stdio.h>
+	"Colas.h"
+	<conio.c>
+

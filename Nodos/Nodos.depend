@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1560849485 source:c:\users\miguel rivas\documents\programación 2\nodos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodos.h"
+
+1560849336 c:\users\miguel rivas\documents\programación 2\nodos\nodos.h
+	<stdio.h>
+	<stdlib.h>
+
+1560849608 source:c:\users\miguel rivas\documents\programación 2\nodos\nodos.c
+	<stdio.h>
+	<stdlib.h>
+	"Nodos.h"
+

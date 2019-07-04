@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1560855121 source:c:\users\miguel rivas\documents\programación\nodosperocolas\nodosperocolas.c
+	<stdio.h>
+	<stdlib.h>
+	"NodosPeroColas.h"
+
+1560852445 c:\users\miguel rivas\documents\programación\nodosperocolas\nodosperopilas.h
+	<stdio.h>
+
+1560855122 source:c:\users\miguel rivas\documents\programación\nodosperocolas\main.c
+	<stdlib.h>
+	<stdio.h>
+	"NodosPeroColas.h"
+
+1560855187 c:\users\miguel rivas\documents\programación\nodosperocolas\nodosperocolas.h
+	<stdio.h>
+

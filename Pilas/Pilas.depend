@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1558726665 source:c:\users\miguel rivas\documents\programación\pilas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilaestatica.h"
+
+1558726275 c:\users\miguel rivas\documents\programación\pilas\pilaestatica.h
+	<stdlib.h>
+
+1558726275 source:c:\users\miguel rivas\documents\programación\pilas\pilaestatica.c
+	<stdio.h>
+	<string.h>
+	"Pilaestatica.h"
+
