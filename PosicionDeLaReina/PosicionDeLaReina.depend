@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1559009455 source:c:\users\miguel rivas\documents\programación\posiciondelareina\main.c
+	<stdio.h>
+	<stdlib.h>
+	"VersionPuntero.h"
+	"VersionMatriz.h"
+
+1559009455 c:\users\miguel rivas\documents\programación\posiciondelareina\versionpuntero.h
+
+1559009455 c:\users\miguel rivas\documents\programación\posiciondelareina\versionmatriz.h
+
+1559009455 source:c:\users\miguel rivas\documents\programación\posiciondelareina\versionmatriz.c
+	<stdio.h>
+	<stdlib.h>
+
+1559009455 source:c:\users\miguel rivas\documents\programación\posiciondelareina\versionpuntero.c
+	<stdio.h>
+	<stdlib.h>
+
