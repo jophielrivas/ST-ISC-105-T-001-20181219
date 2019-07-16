@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1562872928 source:c:\users\miguel rivas\documents\programación 2\registropelicula\listadoblecircular.c
+	<stdlib.h>
+	"ListaDobleCircular.h"
+
+1563253698 c:\users\miguel rivas\documents\programación 2\registropelicula\listadoblecircular.h
+	<stdlib.h>
+
+1563253698 source:c:\users\miguel rivas\documents\programación 2\registropelicula\main.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	"conio.c"
+	"ListaDobleCircular.h"
+
+1286692150 c:\users\miguel rivas\documents\programación 2\registropelicula\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1286692224 c:\users\miguel rivas\documents\programación 2\registropelicula\conio.h
+	<stdio.h>
+
