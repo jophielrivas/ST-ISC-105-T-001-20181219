@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563876148 source:c:\users\miguel rivas\documents\programación 2\busquedayordenacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
